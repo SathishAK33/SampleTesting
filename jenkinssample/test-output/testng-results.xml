@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Test Suite" duration-ms="34545" started-at="2021-08-24T10:39:05Z" finished-at="2021-08-24T10:39:40Z">
+    <groups>
+    </groups>
+    <test name="Test Cases" duration-ms="34545" started-at="2021-08-24T10:39:05Z" finished-at="2021-08-24T10:39:40Z">
+      <class name="listeners.itime">
+        <test-method status="PASS" signature="testHCL()[pri:0, instance:listeners.itime@5ea434c8]" name="testHCL" duration-ms="34466" started-at="2021-08-24T16:09:05Z" finished-at="2021-08-24T16:09:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testHCL -->
+      </class> <!-- listeners.itime -->
+    </test> <!-- Test Cases -->
+  </suite> <!-- Test Suite -->
+</testng-results>
